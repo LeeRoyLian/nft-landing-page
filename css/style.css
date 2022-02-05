@@ -22,6 +22,7 @@
 }
 
 body {
+  background-image: url('./images/Background/12-124678_rick-and-morty-background-no6-by-jurokoo-data.jpg');
   background-color: var(--bg-color);
   display: flex;
   flex-flow: column;
